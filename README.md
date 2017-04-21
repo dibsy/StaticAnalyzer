@@ -11,6 +11,9 @@ How to use?
 3. Now start burpsuite
 4. Go to the extender tab
 5. Click Add and Select the StaticAnalyzer.jar file
+
+Test site : http://housing-agent-pitch-68636.bitballoon.com/
+
 6. Right click on any target and click actively scan this host
 
 [![Static Analyzer](https://github.com/dibsy/StaticAnalyzer/blob/master/issues0.PNG)]
