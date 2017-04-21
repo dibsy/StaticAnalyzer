@@ -13,14 +13,7 @@ public class BurpExtender implements IBurpExtender, IScannerCheck
     private IBurpExtenderCallbacks callbacks;
     private IExtensionHelpers helpers;
 
-    // test / grep strings
-    private static final byte[][]GREP_STRING_ARRAY = {"eval()".getBytes(),"git".getBytes()};// I need to modify this line...
-    private static final byte[] INJ_TEST = "|".getBytes();
-    private static final byte[] INJ_ERROR = "Unexpected pipe".getBytes();
     
-    //
-    // implement IBurpExtender
-    //
     
     @Override
     public void registerExtenderCallbacks(final IBurpExtenderCallbacks callbacks)
