@@ -14,7 +14,7 @@ How to use?
 
 Test site : http://housing-agent-pitch-68636.bitballoon.com/
 
-6. Right click on any target and click actively scan this host
+6. Keep Browsing the application or right click on any target and click actively scan this host
 
 [![Static Analyzer](https://github.com/dibsy/StaticAnalyzer/blob/master/issues0.PNG)]
 
