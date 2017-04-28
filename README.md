@@ -1,5 +1,5 @@
 # StaticAnalyzer
-## StaticAnalyzer is a burp plugin that can be used to perform static analysis during run time active scan. It will search for specific words in the response that is mentioned in the vectors.txt
+## StaticAnalyzer is a burp plugin that can be used to perform static analysis of the response information from server during run time. It will search for specific words in the response that is mentioned in the vectors.txt 
 
 
 Tested in BurpSuite Pro
